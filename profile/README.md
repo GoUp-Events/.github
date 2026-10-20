@@ -107,6 +107,13 @@ https://github.com/user-attachments/assets/4cd9e652-2ccc-424a-97ff-bbfc827e1db1
 <table align="center">
   <tr>
     <td align="center" width="25%">
+      <a href="https://github.com/LucasMaxHartmann">
+        <img src="https://github.com/LucasMaxHartmann.png?size=200" width="110" style="border-radius:50%" alt="Foto de Lucas Max Hartmann"><br>
+        <b>Lucas Max Hartmann</b>
+      </a><br>
+      <sub>Líder</sub>
+    </td>
+    <td align="center" width="25%">
       <a href="https://github.com/JenniferReetz">
         <img src="https://github.com/JenniferReetz.png?size=200" width="110" style="border-radius:50%" alt="Foto de Jennifer Reetz"><br>
         <b>Jennifer Reetz</b>
@@ -118,21 +125,14 @@ https://github.com/user-attachments/assets/4cd9e652-2ccc-424a-97ff-bbfc827e1db1
         <img src="https://github.com/StefanieReetz.png?size=200" width="110" style="border-radius:50%" alt="Foto de Stefanie Reetz"><br>
         <b>Stefanie Reetz</b>
       </a><br>
-      <sub>Backend</sub>
+      <sub>Backend e Integrações externas</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/fehhy-droid">
         <img src="https://github.com/fehhy-droid.png?size=200" width="110" style="border-radius:50%" alt="Foto de Fernanda"><br>
         <b>Fernanda</b>
       </a><br>
-      <sub>Frontend</sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/LucasMaxHartmann">
-        <img src="https://github.com/LucasMaxHartmann.png?size=200" width="110" style="border-radius:50%" alt="Foto de Lucas Max Hartmann"><br>
-        <b>Lucas Max Hartmann</b>
-      </a><br>
-      <sub>Líder</sub>
+      <sub>Frontend e Idealização do GoUp</sub>
     </td>
   </tr>
 </table>
