@@ -67,7 +67,6 @@ https://github.com/user-attachments/assets/4cd9e652-2ccc-424a-97ff-bbfc827e1db1
       <p>
         <img src="https://img.shields.io/badge/Java_21-F03D82?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21">
         <img src="https://img.shields.io/badge/Spring_Boot-FFC931?style=flat-square&logo=springboot&logoColor=black" alt="Spring Boot">
-        <img src="https://img.shields.io/badge/Spring_Security-F03D82?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security">
         <img src="https://img.shields.io/badge/JWT-FFC931?style=flat-square&logo=jsonwebtokens&logoColor=black" alt="JWT">
         <img src="https://img.shields.io/badge/MySQL-F03D82?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
       </p>
