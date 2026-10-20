@@ -45,7 +45,7 @@ e ainda recebe sugestões de uma IA: basta contar o que você quer fazer e quant
 
 <div align="center">
 
-<video src="https://github.com/GoUp-Events/.github/raw/main/profile/assets/video_demonstrativo_leve.mp4" poster="https://raw.githubusercontent.com/GoUp-Events/.github/main/profile/assets/demo_thumb.jpg" controls muted width="100%"></video>
+<video src="https://github.com/GoUp-Events/.github/raw/main/profile/assets/video_demonstrativo_leve.mp4" poster="https://raw.githubusercontent.com/GoUp-Events/.github/main/profile/assets/capa.png" controls muted width="100%"></video>
 
 <!--
   PLANO B: se o player acima não aparecer na página da organização,
