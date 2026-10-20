@@ -45,20 +45,8 @@ e ainda recebe sugestões de uma IA: basta contar o que você quer fazer e quant
 
 <div align="center">
 
-<video src="https://github.com/user-attachments/assets/7cbcb447-9e3f-4f6f-a9f6-4f1fabd5f1d6" controls muted width="100%"></video>
+https://github.com/user-attachments/assets/4cd9e652-2ccc-424a-97ff-bbfc827e1db1
 
-<!--
-  PLANO B: se o player acima não aparecer na página da organização,
-  apague a tag <video> e descomente a miniatura clicável abaixo.
-
-  <a href="https://www.youtube.com/@GoUp.Events">
-    <img src="https://raw.githubusercontent.com/GoUp-Events/.github/main/profile/assets/demo_thumb.jpg" width="100%" alt="Assistir à demonstração do GoUp">
-  </a>
-
-  PLAYER NATIVO DO GITHUB: edite este README no site do GitHub, arraste o
-  arquivo video_demonstrativo.mp4 para a caixa de texto e troque o src da
-  tag <video> pelo link user-attachments gerado.
--->
 
 <sub>Prefere ver no YouTube? <a href="https://www.youtube.com/@GoUp.Events">youtube.com/@GoUp.Events</a> &#10140;</sub>
 
